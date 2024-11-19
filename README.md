@@ -3,10 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 <img src="https://github.com/user-attachments/assets/4be21324-afa9-4003-91cc-a18f3c1504e4" height=28% width=32%>
 <img src="https://github.com/user-attachments/assets/d9a95ff3-e1ec-4033-8a06-f80daa757066" height=28% width=32%>
 <img src="https://github.com/user-attachments/assets/ca248502-fc6b-4002-81dd-730ca9e38598" height=28% width=32%>
