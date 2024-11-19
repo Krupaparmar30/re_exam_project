@@ -4,6 +4,8 @@ Firebase Integration: Use Firebase Authentication and Firestore for cloud storag
 SQLite for Offline Database: Store tasks locally in SQLite so users can access tasks without an internet connection.
 GetX for State Management: Use GetXController to manage task-related data, enabling efficient UI updates and reactive programming.
 CRUD Operations: Implement operations to insert, delete, update, and fetch tasks.
+* inser,update,delete database
+* 
 A new Flutter project.
 
 ## Getting Started
